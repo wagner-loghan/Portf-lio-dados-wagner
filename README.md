@@ -1,6 +1,6 @@
 # Portfólio-dados-wagner
 
-Este repositório é um mini projeto de análise de dados explanatoria com uso de tecnologias como python, panda, seaborn  e Sql
+Este repositório é um mini projeto de análise de dados explanatória. O objetivo é trazer clareza nos dados apresentados e fornecer informações viáveis e úteis para tomadas de decisões.
 
 # Análise de Vendas
 
